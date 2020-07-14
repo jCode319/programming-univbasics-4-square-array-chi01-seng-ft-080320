@@ -1,6 +1,7 @@
 def square_array(array)
   # your code here
-  array = []
-  square_array = Math.sqrt(array)
+  new_array = []
+  square_array = (numbers ** 2)
+  square_array(numbers)
   end
 end
