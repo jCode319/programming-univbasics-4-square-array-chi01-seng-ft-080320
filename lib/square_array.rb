@@ -1,8 +1,10 @@
 def square_array(array)
   # your code here
   new_array = []
-
-  new_array << (num ** 2)
+  counter = 0
+  while counter
+    < numbers.length do
+      numbers[counter] ** 2
+      num.push(numbers)
   end
-  new_array
 end
